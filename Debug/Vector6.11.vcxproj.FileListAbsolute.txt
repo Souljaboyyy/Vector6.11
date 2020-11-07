@@ -1,0 +1,2 @@
+D:\Vector6.11\Debug\Vector6.11.exe
+D:\Vector6.11\Debug\Vector6.11.pdb
